@@ -1,0 +1,40 @@
+PWD f:/SCI PAPER/Sci_Paper
+INPUT d:/texlive/2021/texmf.cnf
+INPUT d:/texlive/2021/texmf-dist/web2c/texmf.cnf
+INPUT d:/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT f:/SCI PAPER/Sci_Paper/paper.tex
+OUTPUT f:/SCI PAPER/Sci_Paper/paper.log
+INPUT d:/texlive/2021/texmf-dist/tex/latex/base/article.cls
+INPUT d:/texlive/2021/texmf-dist/tex/latex/base/article.cls
+INPUT d:/texlive/2021/texmf-dist/tex/latex/base/article.cls
+INPUT d:/texlive/2021/texmf-dist/tex/latex/base/article.cls
+INPUT d:/texlive/2021/texmf-dist/tex/latex/base/article.cls
+INPUT d:/texlive/2021/texmf-dist/tex/latex/base/article.cls
+INPUT d:/texlive/2021/texmf-dist/tex/latex/base/article.cls
+INPUT d:/texlive/2021/texmf-dist/tex/latex/base/article.cls
+INPUT d:/texlive/2021/texmf-dist/tex/latex/base/article.cls
+INPUT d:/texlive/2021/texmf-dist/tex/latex/base/article.cls
+INPUT d:/texlive/2021/texmf-dist/tex/latex/base/article.cls
+INPUT d:/texlive/2021/texmf-dist/tex/latex/base/size10.clo
+INPUT d:/texlive/2021/texmf-dist/tex/latex/base/size10.clo
+INPUT d:/texlive/2021/texmf-dist/tex/latex/base/size10.clo
+INPUT d:/texlive/2021/texmf-dist/tex/latex/base/size10.clo
+INPUT d:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT d:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT d:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT d:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT d:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT d:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT d:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT d:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT d:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT d:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT d:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT f:/SCI PAPER/Sci_Paper/paper.aux
+INPUT f:/SCI PAPER/Sci_Paper/paper.aux
+INPUT f:/SCI PAPER/Sci_Paper/paper.aux
+OUTPUT f:/SCI PAPER/Sci_Paper/paper.aux
+OUTPUT f:/SCI PAPER/Sci_Paper/paper.pdf
+INPUT d:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT f:/SCI PAPER/Sci_Paper/paper.aux
+INPUT d:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb

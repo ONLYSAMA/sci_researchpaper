@@ -1,0 +1,20 @@
+# Fdb version 3
+["pdflatex"] 1663892735 "f:/SCI PAPER/Sci_Paper/paper.tex" "f:/SCI PAPER/Sci_Paper/paper.pdf" "paper" 1663892737
+  "d:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1644862683 35752 024fb6c41858982481f6968b5fc26508 ""
+  "d:/texlive/2021/texmf-dist/tex/latex/base/article.cls" 1644863642 20145 aad8c3dd3bc36e260347b84002182bc2 ""
+  "d:/texlive/2021/texmf-dist/tex/latex/base/size10.clo" 1644863642 8449 a72d5d4e612221b46000c3d71724e0ef ""
+  "d:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1644863627 27164 3d5f7887a89df4eb2f6e86ba26ef3254 ""
+  "d:/texlive/2021/texmf-dist/web2c/texmf.cnf" 1644863617 39972 3d6bb4d9d719e93193fa020b58adf5d4 ""
+  "d:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1644865063 5134881 ad40da48a8d4ceb6ea7d1f0302f6168d ""
+  "d:/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1644865194 1330089 b6911978f0db538fb4147357fd88be3c ""
+  "d:/texlive/2021/texmf.cnf" 1644865041 713 e69b156964470283e0530f5060668171 ""
+  "f:/SCI PAPER/Sci_Paper/paper.aux" 1663892737 32 3985256e7290058c681f74d7a3565a19 ""
+  "f:/SCI PAPER/Sci_Paper/paper.tex" 1663892734 91 10388713e91ca89623e11e024f48cd9f ""
+  "paper.aux" 1663892737 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "paper.tex" 1663892734 91 10388713e91ca89623e11e024f48cd9f ""
+  (generated)
+  "paper.pdf"
+  "f:/SCI PAPER/Sci_Paper/paper.pdf"
+  "f:/SCI PAPER/Sci_Paper/paper.log"
+  "paper.aux"
+  "paper.log"
